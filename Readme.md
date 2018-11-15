@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.cs](./CS/DevExpressWalkthrough/Model.cs)
+<!-- default file list end -->
 # Generated Data Access Layer with Entity Framework Code First
 
 
